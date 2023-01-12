@@ -30,6 +30,10 @@ With npm installed (comes with [node](https://nodejs.org/en/)), run the followin
 npm install
 npm run dev
 ```
+다음의 오류가 난다면 아래를 설치:
+```
+sudo apt-get install xdg-utils
+```
 
 ## Test production map
 
